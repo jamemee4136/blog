@@ -1,0 +1,47 @@
+.bg-covid{
+    background-color: pink;
+    padding: 25px 0;
+    border-radius: 15px;
+    
+}
+.covid-head{
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.covid-report{
+    color: #006738;
+    font-size: 38px;
+    text-align: center;
+    padding: 20px;
+
+}
+.bg-Recover{
+    text-align: center;
+    color: white;
+    background-color: greenyellow;
+    border-radius: 15px;
+    padding: 25px 0;
+}
+
+.bg-Hospitalized{
+    text-align: center;
+    color: white;
+    background-color: blue;
+    border-radius: 15px;
+    padding: 37px 0;
+}
+
+.bg-Deaths{
+    text-align: center;
+    color: white;
+    background-color: gray;
+    border-radius: 15px;
+    padding: 37px 0;
+
+}
+
+.covid-padding{
+    padding-bottom: 5px;
+}
